@@ -13,15 +13,10 @@ h1 {
 p {
   font-size: 18px;
 }
-
 nav a {
   text-decoration: none;
   color: #1e90ff;
   margin: 0 10px;
-}
-
-nav a:hover {
-  text-decoration: underline;
 }
 body {
   font-family: Arial, sans-serif;
@@ -30,7 +25,7 @@ body {
   padding: 50px;
 
   /* фон */
-  background-image: url('images/sample.jpg');
+  background-image: url('images/osmmap.jpg');
   background-size: cover;       /* фон растягивается на весь экран */
   background-position: center;  /* центрирование фона */
   background-repeat: no-repeat; /* фон не повторяется */
