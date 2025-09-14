@@ -23,3 +23,15 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
+body {
+  font-family: Arial, sans-serif;
+  color: #fff; /* цвет текста, чтобы был виден на фоне */
+  text-align: center;
+  padding: 50px;
+
+  /* фон */
+  background-image: url('images/sample.jpg');
+  background-size: cover;       /* фон растягивается на весь экран */
+  background-position: center;  /* центрирование фона */
+  background-repeat: no-repeat; /* фон не повторяется */
+}
